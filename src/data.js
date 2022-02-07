@@ -4,7 +4,7 @@ const bannerDescription2 = "Hi! My name is Kenta Yoshii, and am currently a seco
 const email = 'kenta_yoshii@brown.edu'
 const githubUrl = "https://github.com/KentaYoshii"
 const linkedInUrl = "https://www.linkedin.com/in/kenta-yoshii-ba097a1a0/"
-const resumePdfTitle = 'Chua-Hui-Shun-Resume.pdf'
+const resumePdfTitle = 'Kenta-Yoshii.pdf'
 
 const projects = [
     {
@@ -34,6 +34,11 @@ const projects = [
 ]
 
 const webLinks = [
+    {
+        guid: 'https://www.ryugaku.com/blog/kenta-deep-learning.html',
+        title: 'いま話題のディープラーニング。ブラウン大学の「深層学習」の課題を紹介します！',
+        pubDate: '2022年01月11日',
+    },
     {
         guid: 'https://www.ryugaku.com/blog/kenta-end-of-summer2021.html',
         title: "オレゴンからロス、そしてミシガンからボストンへ。夏休みも終わりです",
