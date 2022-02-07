@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbe8ed08c7e5dc12f235bd9af9b541b8",
+    "revision": "96745ca47e5868b747c4cf95a01f1c9f",
     "url": "/mywebsite/index.html"
   },
   {
-    "revision": "c4d4bad5af78266429fe",
+    "revision": "3b46c73d9157604159af",
     "url": "/mywebsite/static/css/2.c5c7f9a8.chunk.css"
   },
   {
-    "revision": "e302b684e35fd538b6ef",
+    "revision": "9f59fcc6d15fb36dd761",
     "url": "/mywebsite/static/css/main.8052061f.chunk.css"
   },
   {
-    "revision": "c4d4bad5af78266429fe",
-    "url": "/mywebsite/static/js/2.cc035686.chunk.js"
+    "revision": "3b46c73d9157604159af",
+    "url": "/mywebsite/static/js/2.4306984a.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/mywebsite/static/js/2.cc035686.chunk.js.LICENSE.txt"
+    "url": "/mywebsite/static/js/2.4306984a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e302b684e35fd538b6ef",
-    "url": "/mywebsite/static/js/main.0b9188b5.chunk.js"
+    "revision": "9f59fcc6d15fb36dd761",
+    "url": "/mywebsite/static/js/main.86eee1a4.chunk.js"
   },
   {
     "revision": "8bfdc81bc68db2f39e17",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ce7834d1f203c4d299d70fe5d0f85319",
     "url": "/mywebsite/static/media/DemonAttack_max.ce7834d1.gif"
+  },
+  {
+    "revision": "4b8e68f885d2881cb58ed95e60a6e3ba",
+    "url": "/mywebsite/static/media/Kenta-Yoshii.4b8e68f8.pdf"
   },
   {
     "revision": "a756e0112873e52212b583f157860a26",
