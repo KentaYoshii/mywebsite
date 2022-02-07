@@ -27,7 +27,7 @@ export default function Banner() {
                 </div>
 
                 <div className={`delay-sm ${showButtons ? "show" : ""}`}>
-                    <a className="btn btn-dark btn-main d-none d-sm-block" href={"/" + resumePdfTitle} download>履歴書/Resume</a>
+                    <a className="btn btn-dark btn-main d-none d-sm-block" href={"https://drive.google.com/file/d/1fMR81exI-_-u6UrOK8RoK9lm7EVEeWvd/view?usp=sharing"} download>履歴書/Resume</a>
                     <Link
                         className="btn btn-secondary d-none d-sm-block"
                         to="projects"
