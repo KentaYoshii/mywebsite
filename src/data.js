@@ -35,6 +35,12 @@ const projects = [
 
 const webLinks = [
     {
+        guid: 'https://www.ryugaku.com/blog/kenta-computer-assignments.html',
+        title: '250時間かかった科目も！ コンピュータのクラスの課題とは？',
+        pubDate: '2022年03月01日',
+    },
+
+    {
         guid: 'https://www.ryugaku.com/blog/kenta-deep-learning.html',
         title: 'いま話題のディープラーニング。ブラウン大学の「深層学習」の課題を紹介します！',
         pubDate: '2022年01月11日',
