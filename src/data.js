@@ -28,8 +28,16 @@ const projects = [
         description: 'A portfolio website.',
         stack: ['React.js'],
         imgName: 'portfolio.png',
-        siteUrl: 'https://huishun98.github.io/',
-        codeUrl: 'https://github.com/huishun98/huishun98.github.io.git',
+        siteUrl: 'https://kentayoshii.github.io/mywebsite/',
+        codeUrl: 'https://github.com/KentaYoshii/mywebsite',
+    },
+    {
+        title: 'ubercool',
+        description: 'Price prediction model for shared ride services given a covid-19 situation',
+        stack: ['python', 'tensorflow'],
+        imgName: 'results.png',
+        siteUrl: '',
+        codeUrl: 'https://github.com/KentaYoshii/ubercool',
     },
 ]
 
