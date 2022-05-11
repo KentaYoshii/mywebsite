@@ -39,6 +39,15 @@ const projects = [
         siteUrl: '',
         codeUrl: 'https://github.com/KentaYoshii/ubercool',
     },
+    {
+        title: 'Animorphs',
+        description: 'Experimenting with different encoding techniques to produce image morphing using StyleGAN',
+        stack: ['python', 'PyTorch', 'Tensorflow'],
+        imgName: 'e4e_gif.gif',
+        siteUrl: '',
+        codeUrl: 'https://github.com/KentaYoshii/Animorphs',
+    },
+
 ]
 
 const webLinks = [
