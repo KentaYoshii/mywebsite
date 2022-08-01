@@ -52,6 +52,16 @@ const projects = [
 
 const webLinks = [
     {
+        guid: 'https://www.ryugaku.com/blog/kenta-computer-sciences.html',
+        title: 'ブラウン大学のコンピュータ・サイエンス。機械学習からサイバーセキュリティまで',
+        pubDate: '2022年7月26日',
+    },
+    {
+        guid: 'https://www.ryugaku.com/blog/kenta-winter-break.html',
+        title: 'コロナ禍に冬休みで帰国。思わぬ事態が！',
+        pubDate: '2022年6月29日',   
+    },
+    {
         guid: 'https://www.ryugaku.com/blog/kenta-computer-assignments.html',
         title: '250時間かかった科目も！ コンピュータのクラスの課題とは？',
         pubDate: '2022年03月01日',
